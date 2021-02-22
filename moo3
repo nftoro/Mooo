@@ -2,6 +2,13 @@
 <head>
 <title>NFTORO</title>
 <meta property="og:title" content="NFT!" />
+<br>
+      <video width="500" height="500" controls autoplay>
+      <source src=”NFTS/pbull.mp4” type=video/ogg>
+      <source src="NFTS/pbull.mp4" type=video/mp4>
+    </video>
+<h1><font color="white">
+<br>
 <meta property="og:image" content="https://nftoro.com/NFTS/Troll_Final_3k_post_qtdijd.jpg" />
 </head>
 <body bgcolor="black" color="white">
